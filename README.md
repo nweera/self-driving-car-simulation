@@ -118,4 +118,4 @@ We successfully trained a CNN to predict steering angles reliably across multipl
 ---
 
 ## References
-- [YouTube Channel: deDSwithBappy](https://youtube.com/playlist?list=PLkz_y24mlSJawbZzfJrrxZi0QNmJ5aP6&si=pqcxVFW0OXLOouoN)
+- [YouTube Channel: deDSwithBappy]([https://youtube.com/playlist?list=PLkz_y24mlSJawbZzfJrrxZi0QNmJ5aP6&si=pqcxVFW0OXLOouoN](https://www.youtube.com/playlist?list=PLkz_y24mlSJawbZz-fJrrxZi0QNmJ5aP6))
